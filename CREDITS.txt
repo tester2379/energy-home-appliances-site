@@ -1,0 +1,6 @@
+Energy Home Appliances website prototype
+
+Catalogue data: extracted from the supplied Energy Home Appliances Website.docx Appendix A and retained as supplied.
+Logo and appliance visual: supplied embedded DOCX media.
+
+No product purchase, cart, checkout, payment or customer account features are included. Product images were not supplied as individual catalogue assets, so cards use a neutral appliance glyph treatment rather than misrepresenting unrelated stock photography. Replace with approved product images where available.
